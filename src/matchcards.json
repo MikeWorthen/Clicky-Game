@@ -1,0 +1,56 @@
+[
+    {
+        "id": 1,
+        "image": "https://cdn.virily.com/wp-content/uploads/2017/12/amostra.jpg",
+        "clicked": false
+    },
+    {
+        "id": 2,
+        "image": "https://thetoplister.files.wordpress.com/2013/07/cc5b2-lt2b-2btaz2b22bcolor.jpg?w=300&h=372",
+        "clicked": false
+    },
+    {
+        "id": 3,
+        "image":  "https://images-na.ssl-images-amazon.com/images/I/71Asjm4prcL._SX425_.jpg",
+        "clicked": false
+    },
+    {
+        "id": 4,
+        "image": "https://vignette.wikia.nocookie.net/looneytunes/images/e/e7/Tweety1.gif/revision/latest?cb=20140406233615",
+        "clicked": false
+    },
+    {
+        "id": 5,
+        "image": "https://www.ewmadvisors.com/sites/default/files/users/ewmadvisors2/Marvin%20the%20Martian.png",
+        "clicked": false
+    },
+    {
+        "id": 6,
+        "image": "https://vignette.wikia.nocookie.net/wbanimation/images/3/36/Yosemite-sam.gif/revision/latest?cb=20110707142643",
+        "clicked": false
+    },
+    {
+        "id": 7,
+        "image": "https://vignette.wikia.nocookie.net/looneytunes/images/f/fc/Porky_Pig.gif/revision/latest?cb=20160417194145",
+        "clicked": false
+    },
+    {
+        "id": 8,
+        "image": "https://hobbydb-production.s3.amazonaws.com/processed_uploads/subject_photo/subject_photo/image/12481/1460597674-3421-5031/Gossamer.png",
+        "clicked": false
+    },
+
+    {
+        "id": 9,
+        "image": "https://vignette.wikia.nocookie.net/mrjoshbumstead/images/2/20/Wile_E_Coyote.gif/revision/latest?cb=20130226145914",
+        "clicked": false
+    },
+    {
+        "id": 10,
+        "image": "https://res.cloudinary.com/teepublic/image/private/s--XkQE8l81--/t_Preview/b_rgb:ffffff,c_limit,f_jpg,h_630,q_90,w_630/v1446245145/production/designs/300106_1.jpg",
+        "clicked": false
+    }
+
+    
+    
+]
