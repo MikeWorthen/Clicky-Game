@@ -4,6 +4,7 @@
   text-align: center;
   margin-bottom: 25px;
   color: white;
+  font-family: 'Delius Unicase', cursive;
 }
 
 h3 {
@@ -13,7 +14,10 @@ h3 {
 .scoreSummary {
   width: 100%;
   text-align: center;
-  margin-bottom: 20px;
+  margin-bottom: 1em;
+  padding-right: 2em;
+  padding-left: 2em;
+  font-family: 'Dekko', cursive;
 }
 
 .row {

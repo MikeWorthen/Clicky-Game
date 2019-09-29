@@ -1,7 +1,6 @@
 import React, { Component } from "react";
 import MatchCard from "./components/Card";
 import Wrapper from "./components/Wrapper";
-// import Navbar from "./components/Navbar";
 import Title from "./components/Title";
 import matches from "./cards.json";
 import "./App.css";
@@ -87,12 +86,11 @@ class App extends Component {
   render() {
     return (
       <Wrapper>
-        {/* <Navbar /> */}
-        <div className="container">
+        <div className="container"  style={{background: "black", opacity: "0.9"}}>
           <Title>Clickity Clickity That's All Folks</Title>
           <br />
           <h3 className="scoreSummary">{this.state.clickAlert}</h3>
-          <h3 className="scoreSummary card-header">
+          <h3 className="scoreSummary">
             Current Score : {this.state.correctGuesses}
             <br />
             Top Score : {this.state.topScore}
